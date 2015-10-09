@@ -1,1 +1,2 @@
-# cc
+# include <stdio.h>
+void  main()
